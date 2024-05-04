@@ -1,0 +1,1 @@
+SELECT "english_title", "artist" FROM "views" ORDER BY "english_title";

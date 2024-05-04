@@ -1,0 +1,1 @@
+SELECT "first_name", "last_name" FROM "players" WHERE "height" > (SELECT ROUND(AVG("height"), 2) FROM "players") ORDER BY "height" DESC, "first_name", "last_name";

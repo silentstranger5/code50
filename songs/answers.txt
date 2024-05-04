@@ -1,0 +1,2 @@
+If song.db contained a listener's top 100 songs of 2018, I would characterize their audio aura by doing some math on the averages of the energy, valence, and danceability of those songs, such as taking the average of those values, or taking the exponential product of them.
+Calculating the sound aura in this way may not be very representative of the listener, as it may not be very accurate or precise, so some additional parameters may need to be included or a more complex calculation may be required.

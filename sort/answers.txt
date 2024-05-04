@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: O(n^2), omega(n)
+
+sort2 uses: merge sort
+
+How do you know?: O(n*logn) = omega(n*logn) = theta(n*logn)
+
+sort3 uses: selection sort
+
+How do you know?: O(n^2) = omega(n^2) = theta(n^2)
